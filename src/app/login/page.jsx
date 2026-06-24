@@ -100,7 +100,7 @@ export default function LoginPage() {
                 required
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="designer@terragallery.com"
+                placeholder="Enter Your Email"
                 className="w-full pl-10 pr-4 py-3 rounded-xl bg-white/[0.03] border border-white/10 text-white text-xs focus:ring-2 focus:ring-amber-500/20 focus:border-amber-400 focus:outline-none transition-all placeholder-stone-500 text-[#e8e3d9]"
               />
             </div>
@@ -119,7 +119,7 @@ export default function LoginPage() {
                 required
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
-                placeholder="••••••••••••"
+                placeholder="Enter Your Password"
                 className="w-full pl-10 pr-4 py-3 rounded-xl bg-white/[0.03] border border-white/10 text-white text-xs focus:ring-2 focus:ring-amber-500/20 focus:border-amber-400 focus:outline-none transition-all placeholder-stone-500 text-[#e8e3d9]"
               />
             </div>
