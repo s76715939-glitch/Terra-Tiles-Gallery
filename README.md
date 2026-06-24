@@ -4,7 +4,7 @@ Discover and curate your perfect room surface aesthetic. A luxury online tile sh
 
 ## 🔗 Live Application
 
-- **Live Link**: `https://ais-dev-tbn6sv2jjva7drqpgremna-830831197025.asia-southeast1.run.app`
+- **Live Link**: `https://terra-tiles-gallery.netlify.app/`
 
 ---
 
