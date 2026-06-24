@@ -72,7 +72,7 @@ export default function Footer() {
 
           <div>
             <h3 className="font-display text-xs font-semibold uppercase tracking-widest text-amber-400">
-              Curations
+              Social Links
             </h3>
             <div className="mt-4 flex gap-4 text-stone-400">
               <a
